@@ -1,3 +1,3 @@
 # What's your name
 
-Ask for the user's name and say hello.
+A program that asks for the user's name and says hello.
