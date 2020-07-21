@@ -1,0 +1,7 @@
+    - from: JosephusPaye/syncbot-a@master
+      to: JosephusPaye/syncbot-a@master
+      sync:
+      - shared/message/**/*.proto: src/shared/proto/message/
+      - shared/scripts/**/*.yaml: src/shared/scripts
+      ignore:
+      - shared/message/SpecificFile.proto
