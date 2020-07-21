@@ -1,3 +1,3 @@
 # Samples
 
-Programming code samples.
+Short code samples in files used to test Syncbot.
